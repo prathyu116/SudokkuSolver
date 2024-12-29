@@ -20,6 +20,4 @@ SudokuSolver is a web-based application that allows users to play and solve Sudo
 ## Reference
 This project was inspired by and refers to the [YouTube tutorial](https://youtu.be/xpsm33tOLTVEE).
 
----
 
-Feel free to clone the repository and contribute!
