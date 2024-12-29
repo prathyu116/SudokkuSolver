@@ -20,8 +20,6 @@ function isSafe2(board, row, col,value) {
       }
      }
      return true
-
-
 }
 function sudokkuAns(board,row,col){
 
